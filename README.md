@@ -1,13 +1,13 @@
 # java
 Java related projects and also a begginer level projects.
 
-******INTRODUCTION*********
+******INTRODUCTION
 
 This repo has a java related contents projects.
 
 Pull the projects and practice and try to make them to sharp your skills.
 
-********HOW TO RUN IN LINUX*********
+********HOW TO RUN IN LINUX
 
 1-First compile the .java file with
 
@@ -20,7 +20,8 @@ then run that with
 java readstudent.class
 
 
-****NOTE********
+****NOTE:--
+
 You can also use a ide like vs code to run it directly.
 
 
